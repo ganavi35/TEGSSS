@@ -1,4 +1,4 @@
-package com.Ganavi-KP;
+package com.ganavi35;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
